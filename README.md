@@ -1,10 +1,7 @@
 <p align="center">
-    <img width="200" src="https://i.pinimg.com/originals/9e/4b/79/9e4b79df1915de606e4b20d153fdae4d.jpg">
+    <img width="400" src="https://github.com/immangeek/immangeek/raw/main/face_animated.gif">
 </p>
-
-<h1> Hello Fellow < Coders/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+<p align="left"><img width=15%" src="https://github.com/immangeek/immangeek/raw/main/lang.gif" alt="lang image here" /></p>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=immangeek)
 [![Github](https://img.shields.io/github/followers/immangeek?label=Follow&style=social)](https://github.com/immangeek)
@@ -15,7 +12,7 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="25%" align="right" alt="Github" src="https://github.com/immangeek/immangeek/raw/main/Hand.gif" />
 
 - 🔭 I’m currently working on  **ML Development**
   
