@@ -114,9 +114,9 @@
 <br>
   <br>
   
-[![Imman's github activity graph](https://activity-graph.herokuapp.com/graph?username=immangeek&theme=dracula)]]
 
-| ![Imman's github stats](https://github-readme-stats.vercel.app/api?username=immangeek&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=immangeek&theme=tokyonight) |
+
+| ![Imman's github stats](https://github-readme-stats.vercel.app/api?username=immangeek&show_icons=true&theme=tokyonight) | ![Imman Geek's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=immangeek&theme=tokyonight) |
 | --- | --- |
 <br>
 
