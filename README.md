@@ -1,7 +1,7 @@
 <p align="center">
     <img width="400" src="https://github.com/immangeek/immangeek/raw/main/face_animated.gif">
 </p>
-<p align="left"><img width=15%" src="https://github.com/immangeek/immangeek/raw/main/lang.gif" alt="lang image here" /></p>
+<p align="left"><img width=30%" src="https://github.com/immangeek/immangeek/raw/main/lang.gif" alt="lang image here" /></p>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=immangeek)
 [![Github](https://img.shields.io/github/followers/immangeek?label=Follow&style=social)](https://github.com/immangeek)
@@ -114,7 +114,7 @@
 <br>
   <br>
   
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=immangeek&theme=tokyonight)](https://git.io/immangeek)
+[![Imman's github activity graph](https://activity-graph.herokuapp.com/graph?username=immangeek&theme=dracula)]]
 
 | ![Imman's github stats](https://github-readme-stats.vercel.app/api?username=immangeek&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=immangeek&theme=tokyonight) |
 | --- | --- |
